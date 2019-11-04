@@ -1,0 +1,6 @@
+Pattern Generation Tool
+Belong to CKML: http://ckmaterialslab.com/
+Version: 0.1
+
+How to install:
+Running PatternGenerationSetup.msi or setup.exe
